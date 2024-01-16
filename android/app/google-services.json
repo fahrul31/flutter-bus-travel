@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "878093635360",
+    "firebase_url": "https://busser-47867-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "busser-47867",
+    "storage_bucket": "busser-47867.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878093635360:android:93e55aefa2454c99e75145",
+        "android_client_info": {
+          "package_name": "com.example.bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdG4tz-9Amf0NIY9_ni9qwgg8FHujGaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878093635360:android:888bf667189d9a4ee75145",
+        "android_client_info": {
+          "package_name": "com.projek.busser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLdG4tz-9Amf0NIY9_ni9qwgg8FHujGaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
